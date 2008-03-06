@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rsp stat="ok">
+<photo id="2208286194" secret="f2f0791af3" server="2359" farm="3" dateuploaded="1200882278" isfavorite="0" license="5" rotation="0" originalsecret="41c6760a0f" originalformat="jpg">
+	<owner nsid="41894185893@N01" username="kjell" realname="Kjell Olsen" location="Minneapolis, USA" />
+	<title>P1030965</title>
+	<description />
+	<visibility ispublic="1" isfriend="0" isfamily="0" />
+	<dates posted="1200882278" taken="2008-01-17 18:42:28" takengranularity="0" lastupdate="1201235662" />
+	<editability cancomment="0" canaddmeta="0" />
+	<usage candownload="1" canblog="0" canprint="0" />
+	<comments>2</comments>
+	<notes />
+	<tags>
+		<tag id="18824-2208286194-7439" author="41894185893@N01" raw="piano" machine_tag="0">piano</tag>
+		<tag id="18824-2208286194-6642" author="41894185893@N01" raw="fingers" machine_tag="0">fingers</tag>
+		<tag id="18824-2208286194-4891" author="41894185893@N01" raw="dusk" machine_tag="0">dusk</tag>
+		<tag id="18824-2208286194-141" author="41894185893@N01" raw="blue" machine_tag="0">blue</tag>
+		<tag id="18824-2208286194-731" author="41894185893@N01" raw="me" machine_tag="0">me</tag>
+		<tag id="18824-2208286194-11994" author="41894185893@N01" raw="bach" machine_tag="0">bach</tag>
+	</tags>
+	<urls>
+		<url type="photopage">http://www.flickr.com/photos/kjell/2208286194/</url>
+	</urls>
+</photo>
+</rsp>

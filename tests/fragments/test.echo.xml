@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rsp stat="ok">
+<api_key>99e25a0747970e8e909245b826904d74</api_key>
+<method>flickr.test.echo</method>
+<test>testing 123</test>
+</rsp>
